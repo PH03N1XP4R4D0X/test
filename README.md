@@ -6,4 +6,4 @@ Run once
 
 # think twce
 
-dontsay what you about to think
+dont say what you about to think
